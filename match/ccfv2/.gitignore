@@ -147,11 +147,12 @@ work_dirs/
 
 # model and data
 /data
-*/dataset/
+/dataset
 /checkpoints
 /.history
 
 /log
 
-
-
+**/result/
+**/stopword/
+**/model_result/

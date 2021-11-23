@@ -152,6 +152,7 @@ work_dirs/
 /.history
 
 /log
+/model_result
 
 
 

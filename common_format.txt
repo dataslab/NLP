@@ -1,0 +1,26 @@
+常见的任务数据集输入格式
+
+classifier:
+    requirement:
+        每行是label+\t+text
+    example:
+        2	炸了，就2000.浦发没那么好心，草
+
+NER：
+    requirement:
+        每行是字+空格+label，句子中间以空行隔开
+    example:    
+        建 B-BANK
+        设 I-BANK
+        银 I-BANK
+        行 I-BANK
+        提 B-COMMENTS_N
+        额 I-COMMENTS_N
+        很 B-COMMENTS_ADJ
+        慢 I-COMMENTS_ADJ
+        的 O
+        … O
+        … O
+
+        我 O
+        ...............

@@ -146,12 +146,11 @@ work_dirs/
 *.sh~
 
 # model and data
-/data
-*/dataset/
+**/data/   
+**/dataset/
 /checkpoints
 /.history
 
-/log
 
 
 
