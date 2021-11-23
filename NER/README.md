@@ -1,0 +1,9 @@
+## requirement
+    Python 3.7.0  
+    Transformer 3.4.0  
+    skicit-learn 0.23.2  
+    torch 1.7  
+    multiprocess 0.70.10  
+    tensorboardX 2.1  
+    seqeval 1.2.1  
+    cudatoolkit 10.2  
