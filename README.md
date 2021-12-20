@@ -30,7 +30,7 @@ NLP_begin:
 ## 比赛
 match:  
 |—ccf: 产品评论观点提取  
-| 　 　模型描述：K折数据处理、模型融合(结果投票)、K折洗数据、PGA、FGM、差分学习等比赛基本策略    
+| 　 　模型描述：K折数据处理、模型融合(结果投票)、K折洗数据、PGA、FGM、差分学习等比赛基本策略  
 | 　 　任务类型：NER+情感分类  
 | 　 　比赛主页: https://www.datafountain.cn/competitions/529  
 
@@ -51,8 +51,8 @@ translation:
 |—None  
 
 ## 语义相似度
-similarity: 
-|-CogLTX: 
-| 　 　模型描述: 长文本语义相似度（文本匹配） 
-| 　 　任务类型: 文本相似度 
+similarity:  
+|-CogLTX:  
+| 　 　模型描述: 长文本语义相似度（文本匹配）  
+| 　 　任务类型: 文本相似度  
 | 　 　github主页: https://github.com/Sleepychord/CogLTX 
